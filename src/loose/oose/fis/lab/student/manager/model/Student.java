@@ -5,4 +5,7 @@ public class Student {
     private String lastName;
     private int age;
     private double meanGrade;
+
+
+    System.out.println("dddd");
 }
